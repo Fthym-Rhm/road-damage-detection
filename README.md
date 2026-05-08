@@ -1,4 +1,4 @@
-<img width="819" height="733" alt="image" src="https://github.com/user-attachments/assets/36d8a674-8146-4402-b52b-f905577efb7b" /># Road Damage Enhancement
+# Road Damage Enhancement
 
 ## Introduction
 
