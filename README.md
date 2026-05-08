@@ -45,12 +45,12 @@ enhanced/    -> Final enhanced images
 final_enhancement.py
 ```
 
-## 🔀 Project Branch Navigation
+##  Project Branch Navigation
 
-- 🟢 Main branch (overview & stable code):  
+-  Main branch (overview & stable code):  
   https://github.com/Fthym-Rhm/road-damage-enhancement/tree/main
 
-- 🚀 Enhancement branch (full pipeline implementation):  
+-  Enhancement branch (Enhancement pipeline implementation):  
   https://github.com/Fthym-Rhm/road-damage-enhancement/tree/enhancement
 
 
