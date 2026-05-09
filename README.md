@@ -2,10 +2,9 @@
 
 ## Introduction
 
-This project focuses on enhancing road damage video frames using image processing techniques in Python with OpenCV.  
-The enhancement pipeline improves the visibility and quality of road surface details, making it easier for further analysis and detection of road damages such as cracks and potholes.
+This project focuses on detecting and analyzing road surface damages using video processing and image segmentation techniques. The system is designed to identify road defects such as potholes, cracks, and damaged road areas automatically from recorded road videos.
 
-The system processes video frames step-by-step and saves the output of each enhancement stage separately for analysis and comparison.
+Road damage inspection is usually done manually, which takes a lot of time, cost, and human effort. This project aims to provide a faster and more efficient solution by using computer vision techniques to process road surface images and videos.
 
 ---
 
@@ -17,13 +16,11 @@ The system processes video frames step-by-step and saves the output of each enha
 - Matplotlib
 ---
 
-## Enhancement Pipeline
-
-- Grayscale
-- Median Filter
-- Log Transform
-- Contrast Stretch
-- Histogram Equalization
+## Dataset
+The dataset was created using videos captured from Mihintale roads containing different types of road surface damages such as:
+- Potholes
+- Cracks
+- Raveling
 
 ## Folder Structure
 
@@ -38,12 +35,6 @@ enhanced/    -> Final enhanced images
 ```
 
 
-
-### Run the Program
-
-```bash
-final_enhancement.py
-```
 
 ## Author 
 Road Damage Enhancement System
