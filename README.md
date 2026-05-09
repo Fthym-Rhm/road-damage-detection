@@ -17,16 +17,16 @@ Road damage inspection is usually done manually, which takes a lot of time, cost
 ---
 
 
-##  Project Branch Navigation
+## Project Branch Navigation
 
--  Main branch (overview & stable code):  
+- Main branch (overview & stable code):  
   https://github.com/Fthym-Rhm/road-damage-detection/tree/main
 
--  Enhancement branch (Enhancement pipeline implementation):  
+- Enhancement branch (Enhancement pipeline implementation):  
   https://github.com/Fthym-Rhm/road-damage-detection/tree/enhancement
 
-- Segmentation branch (Segmentation pipeline implementation):
-   https://github.com/Fthym-Rhm/road-damage-detection/tree/segementation
+- Segmentation branch (Segmentation pipeline implementation):  
+  https://github.com/Fthym-Rhm/road-damage-detection/tree/segmentation
 
 ## Author 
 Road Damage Detection
