@@ -61,7 +61,7 @@ road-damage-detection/
 ├── output/                # Final detected outputs
 ├── ground_truth/          # Ground truth masks for evaluation
 ├── final_video.mp4        # Input road video
-├── final_segmentation.py                # Main project source code
+├── final_segmentation.py  # Main project source code
 └── README.md              # Project documentation
 ```
 
@@ -93,7 +93,17 @@ The system generates:
 - Final detected road damage outputs
 
 ---
+## Project Branch Navigation
 
+- Main branch (overview & stable code):  
+  https://github.com/Fthym-Rhm/road-damage-detection/tree/main
+
+- Enhancement branch (Enhancement pipeline implementation):  
+  https://github.com/Fthym-Rhm/road-damage-detection/tree/enhancement
+
+- Segmentation branch (Segmentation pipeline implementation):  
+  https://github.com/Fthym-Rhm/road-damage-detection/tree/segmentation
+  
 
 # Author
 
