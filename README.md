@@ -48,12 +48,15 @@ final_enhancement.py
 ##  Project Branch Navigation
 
 -  Main branch (overview & stable code):  
-  https://github.com/Fthym-Rhm/road-damage-enhancement/tree/main
+  https://github.com/Fthym-Rhm/road-damage-detection/tree/main
 
 -  Enhancement branch (Enhancement pipeline implementation):  
-  https://github.com/Fthym-Rhm/road-damage-enhancement/tree/enhancement
+  https://github.com/Fthym-Rhm/road-damage-detection/tree/enhancement
 
+- Segmentation branch
+   https://github.com/Fthym-Rhm/road-damage-detection/tree/segementation
 
 ## Author 
 Road Damage Enhancement System
+
 Group 12
